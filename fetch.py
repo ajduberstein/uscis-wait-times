@@ -1,5 +1,6 @@
 import copy
 import datetime
+import json
 import logging
 import os
 import time
@@ -131,9 +132,12 @@ def fetch_wait_times():
         for office in offices:
             office_code = office["office_code"]
             wait_time = query_wait_time(form_code, office_code)
-            path = Path(f"./data/{form_code}/{office_code}/{datestr}.json").mkdir(
+            path = Path(f"./data/{form_code}/{office_code}")
+            path.mkdir(
                 parents=True, exist_ok=True
             )
+            with open(path / f'{datestr}.json', 'w') as f:
+                f.write(json.dumps(wait_time, sort_keys=True, indent=4))
             time.sleep(1)
     return output
 
