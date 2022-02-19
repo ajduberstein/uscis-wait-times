@@ -1,0 +1,17 @@
+on:
+  schedule:
+    - cron:  '0 0 * * *'
+name: Scrape Data
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Build
+      run: python3 -m pip install -r requirements.txt
+    - name: Scrape
+      run: python3 fetch.py
+    - uses: mikeal/publish-to-github-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you

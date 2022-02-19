@@ -1,0 +1,21 @@
+{
+    "plugins": ["react", "simple-import-sort"],
+    "extends": ["eslint:recommended", "plugin:react/all", "prettier"],
+    "parserOptions": {
+      "ecmaVersion": 2020,
+      "sourceType": "module",
+      "ecmaFeatures": {}
+    },
+    "rules": {
+      "simple-import-sort/imports": "error",
+      "simple-import-sort/exports": "error",
+      "react/jsx-filename-extension": [1, {"extensions": [".js", ".jsx"]}],
+      "react/forbid-component-props": 0,
+      "react/jsx-no-literals": 0,
+      "react/jsx-props-no-spreading": 0,
+      "react/no-multi-comp": 0,
+      "react/jsx-no-bind": 0,
+      "react/jsx-max-depth": 0
+    },
+    "env": {"es6": true}
+}
