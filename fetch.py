@@ -22,6 +22,7 @@ HEADERS = {
     "cache-control": "no-cache",
     "pragma": "no-cache",
     "sec-fetch-dest": "empty",
+    "user-agent": "https://github.com/ajduberstein/uscis-wait-times",
     "sec-fetch-mode": "cors",
     "sec-fetch-site": "same-origin",
     "Referer": "https://egov.uscis.gov/processing-times/",
