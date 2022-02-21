@@ -12,6 +12,7 @@ jobs:
       run: python3 -m pip install -r requirements.txt
     - name: Scrape
       run: python3 fetch.py
-    - uses: mikeal/publish-to-github-action@main
+    - uses: mikeal/publish-to-github-action@e5a27bbb5174edae8930d2250fc98a3a32478f81
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
+        BRANCH_NAME: main
