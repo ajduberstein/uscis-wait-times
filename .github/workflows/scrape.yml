@@ -1,7 +1,6 @@
 on:
-  pull_request:
   schedule:
-    - cron:  '0 0 * * *'
+    - cron:  '33 2 * * *'
 name: Scrape Data
 jobs:
   scrape:
