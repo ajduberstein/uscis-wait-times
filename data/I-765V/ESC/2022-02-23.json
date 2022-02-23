@@ -1,0 +1,54 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Application for Employment Authorization for Abused Nonimmigrant Spouse",
+            "form_info_es": "Solicitud de Autorizaci\u00f3n de Empleo para un C\u00f3nyuge No Inmigrante Maltratado",
+            "form_name": "I-765V",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "ESC",
+            "range": [
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 17.5
+                },
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 4.5
+                }
+            ],
+            "subtypes": [
+                {
+                    "form_type": "147-V",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 17.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 4.5
+                        }
+                    ],
+                    "service_request_date": "September 09, 2020",
+                    "service_request_date_en": "September 09, 2020",
+                    "service_request_date_es": "09 de septiembre de 2020",
+                    "subtype_info_en": "Abused spouse of an A, E-3, G, or H nonimmigrant [(c)(27-30)]",
+                    "subtype_info_es": "Todas las dem\u00e1s solicitudes para autorizaci\u00f3n de empleo [(c)(27-30)]",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-765V', 'office_code': 'ESC'}"
+}
