@@ -1,0 +1,79 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Immigrant Petition by Alien Investor",
+            "form_info_es": "Petici\u00f3n de Inmigrante por Inversionista Extranjero",
+            "form_name": "I-526",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "IPO",
+            "range": [
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 77.5
+                },
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 53.5
+                }
+            ],
+            "subtypes": [
+                {
+                    "form_type": "133CN",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 80.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 63
+                        }
+                    ],
+                    "service_request_date": "June 24, 2015",
+                    "service_request_date_en": "June 24, 2015",
+                    "service_request_date_es": "24 de junio de 2015",
+                    "subtype_info_en": "China - mainland born - For use by an investor who wishes to immigrate to the United States",
+                    "subtype_info_es": "China - nacido en el pa\u00eds - Para uso de un inversionista que desea inmigrar a Estados Unidos",
+                    "subtype_note_en": "Statutory authorization related to the EB-5 Immigrant Investor Regional Center Program expired at midnight on June 30, 2021. For information regarding Form I-526 petition processing, and the impact of the lapse in statutory authorization, see our EB-5 Immigrant Investor Program page (https://www.uscis.gov/working-in-the-united-states/permanent-workers/eb-5-immigrant-investor-program).",
+                    "subtype_note_es": "La autorizaci\u00f3n legal relacionada con el Programa de Centros Regionales para Inversionistas Inmigrantes EB-5 caduc\u00f3 a la medianoche del 30 de junio de 2021. Para obtener informaci\u00f3n sobre el procesamiento del Formulario I-526 y el impacto de la interrupci\u00f3n en la autorizaci\u00f3n legal, consulte nuestra p\u00e1gina del Programa de Inversionistas Inmigrantes EB-5 (https://www.uscis.gov/es/trabajar-en-estados-unidos/trabajadores-permanentes/eb-5-programa-de-inversionistas-inmigrantes)."
+                },
+                {
+                    "form_type": "133ROW",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 58
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 37
+                        }
+                    ],
+                    "service_request_date": "April 29, 2017",
+                    "service_request_date_en": "April 29, 2017",
+                    "service_request_date_es": "29 de abril de 2017",
+                    "subtype_info_en": "All other areas - For use by an investor who wishes to immigrate to the United States",
+                    "subtype_info_es": "Todas las dem\u00e1s \u00e1reas - Para uso de un inversionista que desea inmigrar a Estados Unidos",
+                    "subtype_note_en": "Statutory authorization related to the EB-5 Immigrant Investor Regional Center Program expired at midnight on June 30, 2021. For information regarding Form I-526 petition processing, and the impact of the lapse in statutory authorization, see our EB-5 Immigrant Investor Program page.",
+                    "subtype_note_es": "La autorizaci\u00f3n legal relacionada con el Programa de Centros Regionales para Inversionistas Inmigrantes EB-5 caduc\u00f3 a la medianoche del 30 de junio de 2021. Para obtener informaci\u00f3n sobre el procesamiento del Formulario I-526 y el impacto de la interrupci\u00f3n en la autorizaci\u00f3n legal, consulte nuestra p\u00e1gina del Programa de Inversionistas Inmigrantes EB-5."
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-526', 'office_code': 'IPO'}"
+}
