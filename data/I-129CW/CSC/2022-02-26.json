@@ -1,0 +1,41 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Petition for a CNMI-Only Nonimmigrant Transitional Worker",
+            "form_info_es": "Petici\u00f3n de Trabajador Transicional No Inmigrante \u2013 Solo de CNMI",
+            "form_name": "I-129CW",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "CSC",
+            "range": null,
+            "subtypes": [
+                {
+                    "form_type": "129-CW1",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 3
+                        }
+                    ],
+                    "service_request_date": "September 28, 2021",
+                    "service_request_date_en": "September 28, 2021",
+                    "service_request_date_es": "28 de septiembre de 2021",
+                    "subtype_info_en": "CW-1 - CNMI-Only Nonimmigrant Transitional Worker",
+                    "subtype_info_es": "CW-1 - Trabajador Transitorio Solo de CNMI",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-129CW', 'office_code': 'CSC'}"
+}
