@@ -1,0 +1,54 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Application for Replacement/Initial Nonimmigrant Arrival-Departure Document",
+            "form_info_es": "Solicitud para Reemplazar/Obtener Documento de Entrada/Salida de No Inmigrante",
+            "form_name": "I-102",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "NBC",
+            "range": [
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 18
+                },
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 2
+                }
+            ],
+            "subtypes": [
+                {
+                    "form_type": "142",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 18
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 2
+                        }
+                    ],
+                    "service_request_date": "September 06, 2020",
+                    "service_request_date_en": "September 06, 2020",
+                    "service_request_date_es": "06 de septiembre de 2020",
+                    "subtype_info_en": "Initial issuance or replacement of a Form I-94",
+                    "subtype_info_es": "Emisi\u00f3n o reemplazo inicial del Formulario I-94",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-102', 'office_code': 'NBC'}"
+}
