@@ -1,0 +1,154 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Application to Register Permanent Residence or Adjust Status",
+            "form_info_es": "Solicitud para Registrar la Residencia Permanente o Ajustar de Estatus",
+            "form_name": "I-485",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "NSC",
+            "range": [
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 19
+                },
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 11.5
+                }
+            ],
+            "subtypes": [
+                {
+                    "form_type": "I-485 Asylee",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 46.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 19
+                        }
+                    ],
+                    "service_request_date": "April 17, 2018",
+                    "service_request_date_en": "April 17, 2018",
+                    "service_request_date_es": "17 de abril de 2018",
+                    "subtype_info_en": "Based on grant of asylum more than 1 year ago",
+                    "subtype_info_es": "Basadas en la concesi\u00f3n del asilo hace m\u00e1s de 1 a\u00f1o",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "I-485 Refugee",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 23.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 12.5
+                        }
+                    ],
+                    "service_request_date": "March 19, 2020",
+                    "service_request_date_en": "March 19, 2020",
+                    "service_request_date_es": "19 de marzo de 2020",
+                    "subtype_info_en": "Based on refugee admission more than 1 year ago",
+                    "subtype_info_es": "Basadas en la admisi\u00f3n del refugiado hace m\u00e1s de 1 a\u00f1o",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "I-485 Employment",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 19
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 10.5
+                        }
+                    ],
+                    "service_request_date": "August 06, 2020",
+                    "service_request_date_en": "August 06, 2020",
+                    "service_request_date_es": "06 de agosto de 2020",
+                    "subtype_info_en": "Employment-Based adjustment applications",
+                    "subtype_info_es": "Solicitudes de Modificaci\u00f3n Migratoria Basadas en el Empleo",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "I-485 Uvisa",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 20.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 13.5
+                        }
+                    ],
+                    "service_request_date": "June 18, 2020",
+                    "service_request_date_en": "June 18, 2020",
+                    "service_request_date_es": "18 de junio de 2020",
+                    "subtype_info_en": "Based on an approved U Visa",
+                    "subtype_info_es": "Basada en una visa U aprobada",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "I-485 All Other",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 74
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 8.5
+                        }
+                    ],
+                    "service_request_date": "January 01, 2016",
+                    "service_request_date_en": "January 01, 2016",
+                    "service_request_date_es": "01 de enero de 2016",
+                    "subtype_info_en": "Under HRIFA, Indochinese Adjustment Act, Legal Immigration and Family Equity Act, or NACARA",
+                    "subtype_info_es": "Bajo HRIFA, Acta de Ajuste de Indochina, Ley de inmigraci\u00f3n legal y equidad de la familia, o NACARA",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-485', 'office_code': 'NSC'}"
+}
