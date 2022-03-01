@@ -1,0 +1,54 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Application for Naturalization",
+            "form_info_es": "Solicitud de Naturalizaci\u00f3n",
+            "form_name": "N-400",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "MIA",
+            "range": [
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 16.5
+                },
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 8.5
+                }
+            ],
+            "subtypes": [
+                {
+                    "form_type": "160A",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 16.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 8.5
+                        }
+                    ],
+                    "service_request_date": "October 19, 2020",
+                    "service_request_date_en": "October 19, 2020",
+                    "service_request_date_es": "19 de octubre de 2020",
+                    "subtype_info_en": "Application for Naturalization",
+                    "subtype_info_es": "Solicitud de Naturalizaci\u00f3n",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'N-400', 'office_code': 'MIA'}"
+}

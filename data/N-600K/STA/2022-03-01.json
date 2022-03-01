@@ -1,0 +1,54 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Application for Citizenship and Issuance of Certificate Under Section 322",
+            "form_info_es": "Solicitud de ciudadan\u00eda y emisi\u00f3n del certificado bajo la Secci\u00f3n 322",
+            "form_name": "N-600K",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "STA",
+            "range": [
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 25.5
+                },
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 7.5
+                }
+            ],
+            "subtypes": [
+                {
+                    "form_type": "161B",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 25.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 7.5
+                        }
+                    ],
+                    "service_request_date": "January 20, 2020",
+                    "service_request_date_en": "January 20, 2020",
+                    "service_request_date_es": "20 de enero de 2020",
+                    "subtype_info_en": "Application for Citizenship and Issuance of Certificate Under Section 322",
+                    "subtype_info_es": "Solicitud de ciudadan\u00eda y emisi\u00f3n del certificado bajo la Secci\u00f3n 322",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'N-600K', 'office_code': 'STA'}"
+}

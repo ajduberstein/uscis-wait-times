@@ -1,0 +1,229 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Immigrant Petition for Alien Worker",
+            "form_info_es": "Petici\u00f3n de Trabajador Extranjero No Inmigrante",
+            "form_name": "I-140",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "SSC",
+            "range": [
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 26.5
+                },
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 10.5
+                }
+            ],
+            "subtypes": [
+                {
+                    "form_type": "136A-E11",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 27.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 14
+                        }
+                    ],
+                    "service_request_date": "November 26, 2019",
+                    "service_request_date_en": "November 26, 2019",
+                    "service_request_date_es": "26 de noviembre de 2019",
+                    "subtype_info_en": "Extraordinary ability (E11)",
+                    "subtype_info_es": "Capacidad extraordinaria (E11)",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "136A-E12",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 16.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 5
+                        }
+                    ],
+                    "service_request_date": "October 21, 2020",
+                    "service_request_date_en": "October 21, 2020",
+                    "service_request_date_es": "21 de octubre de 2020",
+                    "subtype_info_en": "Outstanding professor or researcher (E12)",
+                    "subtype_info_es": "Profesor o investigador excepcional (E12)",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "136A-E13",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 51.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 11
+                        }
+                    ],
+                    "service_request_date": "November 28, 2017",
+                    "service_request_date_en": "November 28, 2017",
+                    "service_request_date_es": "28 de noviembre de 2017",
+                    "subtype_info_en": "Multinational executive or manager (E13)",
+                    "subtype_info_es": "Ejecutivo o gerente multinacional (E13)",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "136A-E21",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 14
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 10
+                        }
+                    ],
+                    "service_request_date": "January 11, 2021",
+                    "service_request_date_en": "January 11, 2021",
+                    "service_request_date_es": "11 de enero de 2021",
+                    "subtype_info_en": "Advanced degree or exceptional ability (E21)",
+                    "subtype_info_es": "Grado avanzado o capacidad excepcional (E21)",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "136A-E31",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 14
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 8
+                        }
+                    ],
+                    "service_request_date": "January 09, 2021",
+                    "service_request_date_en": "January 09, 2021",
+                    "service_request_date_es": "09 de enero de 2021",
+                    "subtype_info_en": "Skilled worker or professional (E31; E32)",
+                    "subtype_info_es": "Trabajador calificado o profesional (E31; E32)",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "136A-EW3",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 61.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 12
+                        }
+                    ],
+                    "service_request_date": "January 24, 2017",
+                    "service_request_date_en": "January 24, 2017",
+                    "service_request_date_es": "24 de enero de 2017",
+                    "subtype_info_en": "Unskilled worker (EW3)",
+                    "subtype_info_es": "Trabajador no calificado (EW3)",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "136A-NIW",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 26.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 12
+                        }
+                    ],
+                    "service_request_date": "December 28, 2019",
+                    "service_request_date_en": "December 28, 2019",
+                    "service_request_date_es": "28 de diciembre de 2019",
+                    "subtype_info_en": "Advanced degree or exceptional ability requesting a National Interest Waiver (NIW)",
+                    "subtype_info_es": "[Persona o Personas] con Certificado de Estudios Superiores o con capacidad excepcional, que solicita(n) una Exenci\u00f3n en Raz\u00f3n a Inter\u00e9s Nacional [National Interest Waiver (NIW)]",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "136A-NUR",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 16.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 4
+                        }
+                    ],
+                    "service_request_date": "October 17, 2020",
+                    "service_request_date_en": "October 17, 2020",
+                    "service_request_date_es": "17 de octubre de 2020",
+                    "subtype_info_en": "Schedule A Nurses",
+                    "subtype_info_es": "Enfermeras de la Lista A [de conformidad con I-136A]",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-140', 'office_code': 'SSC'}"
+}
