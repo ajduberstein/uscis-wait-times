@@ -1,0 +1,41 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Refugee/Asylee Relative Petition",
+            "form_info_es": "Petici\u00f3n de Familiar de Refugiado/Asilado",
+            "form_name": "I-730",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "SSC",
+            "range": null,
+            "subtypes": [
+                {
+                    "form_type": "145",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 29
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 22.5
+                        }
+                    ],
+                    "service_request_date": "October 11, 2019",
+                    "service_request_date_en": "October 11, 2019",
+                    "service_request_date_es": "11 de octubre de 2019",
+                    "subtype_info_en": "Petition for accompanying family members of an asylee",
+                    "subtype_info_es": "\nSolicitud para acompa\u00f1ar a miembros de la familia de un asilado",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-730', 'office_code': 'SSC'}"
+}

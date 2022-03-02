@@ -1,0 +1,54 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Application for Travel Document",
+            "form_info_es": "Solicitud de Documento de Viaje",
+            "form_name": "I-131",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "NBC",
+            "range": [
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 12.5
+                },
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 9
+                }
+            ],
+            "subtypes": [
+                {
+                    "form_type": "141B-OTH",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 12.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 9
+                        }
+                    ],
+                    "service_request_date": "February 26, 2021",
+                    "service_request_date_en": "February 26, 2021",
+                    "service_request_date_es": "26 de febrero de 2021",
+                    "subtype_info_en": "All other applicants for advance parole",
+                    "subtype_info_es": "Todos los otros solicitantes para el permiso anticipado de viaje",
+                    "subtype_note_en": "If you filed Form I-131 and Form I-765 concurrently, based on a pending Green Card application (Form I-485), you should only submit an inquiry if both cases (both your Form I-131 and Form I-765 applications) are taking longer than their normal processing times.",
+                    "subtype_note_es": "Si usted present\u221a\u2265 el Formulario I-131 y el Formulario I-765 a la misma vez, basados en una solicitud de residencia permanente que est\u221a\u00b0 pendiente (Formulario I-485), usted s\u221a\u2265lo puede enviar un pedido de infomaci\u221a\u2265n si ambos casos (Formularios I-131 y Formulario I -765) est\u221a\u00b0n demorando m\u221a\u00b0s que su periodo normal de procesamiento."
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-131', 'office_code': 'NBC'}"
+}
