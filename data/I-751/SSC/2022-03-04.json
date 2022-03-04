@@ -1,0 +1,54 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Petition to Remove Conditions on Residence",
+            "form_info_es": "Petici\u00f3n para Eliminar las Condiciones en la Residencia",
+            "form_name": "I-751",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "SSC",
+            "range": [
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 10
+                },
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 7
+                }
+            ],
+            "subtypes": [
+                {
+                    "form_type": "148A",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 10
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 7
+                        }
+                    ],
+                    "service_request_date": "May 12, 2021",
+                    "service_request_date_en": "May 12, 2021",
+                    "service_request_date_es": "12 de mayo de 2021",
+                    "subtype_info_en": "Removal of lawful permanent resident conditions (spouses of U.S. citizens and lawful permanent residents)",
+                    "subtype_info_es": "Retiro de las condiciones a residentes permanentes legales (esposos de los ciudadanos de EE.UU. y de los residentes permanentes legales)",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-751', 'office_code': 'SSC'}"
+}
