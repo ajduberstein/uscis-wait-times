@@ -1,0 +1,54 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Application for Action on an Approved Application or Petition",
+            "form_info_es": "Solicitud de Acci\u00f3n en una Solicitud o Petici\u00f3n Aprobada",
+            "form_name": "I-824",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "NSC",
+            "range": [
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 21.5
+                },
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 12.5
+                }
+            ],
+            "subtypes": [
+                {
+                    "form_type": "153",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 21.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 12.5
+                        }
+                    ],
+                    "service_request_date": "June 01, 2020",
+                    "service_request_date_en": "June 01, 2020",
+                    "service_request_date_es": "01 de junio de 2020",
+                    "subtype_info_en": "To request further action on an approved application or petition",
+                    "subtype_info_es": "Para solicitar acci\u00f3n adicional en una solicitud o una petici\u00f3n aprobada",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-824', 'office_code': 'NSC'}"
+}

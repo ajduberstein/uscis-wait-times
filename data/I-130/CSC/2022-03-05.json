@@ -1,0 +1,166 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Petition for Alien Relative",
+            "form_info_es": "Petici\u00f3n de Familiar Extranjero",
+            "form_name": "I-130",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "CSC",
+            "range": null,
+            "subtypes": [
+                {
+                    "form_type": "134A-F21",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 29
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 22.5
+                        }
+                    ],
+                    "service_request_date": "October 16, 2019",
+                    "service_request_date_en": "October 16, 2019",
+                    "service_request_date_es": "16 de octubre de 2019",
+                    "subtype_info_en": "Permanent resident filing for a spouse or child under 21",
+                    "subtype_info_es": "Petici\u00f3n de un residente permanente para un c\u00f3nyuge o un ni\u00f1o menor de 21a\u00f1os",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "134A-IR",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 38.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 29.5
+                        }
+                    ],
+                    "service_request_date": "December 31, 2018",
+                    "service_request_date_en": "December 31, 2018",
+                    "service_request_date_es": "31 de diciembre de 2018",
+                    "subtype_info_en": "U.S. citizen filing for a spouse, parent, or child under 21",
+                    "subtype_info_es": "Petici\u00f3n de un ciudadano de EE.UU. para un c\u00f3nyuge, un padre, o un ni\u00f1o menor de 21 a\u00f1os",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "134B-F11",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 57.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 44.5
+                        }
+                    ],
+                    "service_request_date": "May 26, 2017",
+                    "service_request_date_en": "May 26, 2017",
+                    "service_request_date_es": "26 de mayo de 2017",
+                    "subtype_info_en": "U.S. citizen filing for an unmarried son or daughter over 21",
+                    "subtype_info_es": "Petici\u00f3n de un ciudadano de EE.UU. para un hijo o una hija soltero(a) mayor de 21 a\u00f1os",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "134B-F24",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 77.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 59.5
+                        }
+                    ],
+                    "service_request_date": "September 29, 2015",
+                    "service_request_date_en": "September 29, 2015",
+                    "service_request_date_es": "29 de septiembre de 2015",
+                    "subtype_info_en": "Permanent resident filing for an unmarried son or daughter over 21",
+                    "subtype_info_es": "Petici\u00f3n de un residente permanente para un hijo o una hija soltero(a) mayor de 21 a\u00f1os",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "134B-F31",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 145.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 112
+                        }
+                    ],
+                    "service_request_date": "February 02, 2010",
+                    "service_request_date_en": "February 02, 2010",
+                    "service_request_date_es": "02 de febrero de 2010",
+                    "subtype_info_en": "U.S. citizen filing for a married son or daughter over 21",
+                    "subtype_info_es": "Petici\u00f3n de un ciudadano de EE.UU. para un hijo o una hija casado(a) mayour de 21 a\u00f1os",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "134B-F41",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 176.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 135.5
+                        }
+                    ],
+                    "service_request_date": "July 08, 2007",
+                    "service_request_date_en": "July 08, 2007",
+                    "service_request_date_es": "08 de julio de 2007",
+                    "subtype_info_en": "U.S. citizen filing for a brother or sister",
+                    "subtype_info_es": "Petici\u00f3n de un ciudadano de EE.UU. para un hermano o una hermana",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-130', 'office_code': 'CSC'}"
+}
