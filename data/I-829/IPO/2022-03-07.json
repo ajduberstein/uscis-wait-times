@@ -1,0 +1,54 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Petition by Entrepreneur to Remove Conditions on Permanent Resident Status",
+            "form_info_es": "Petici\u00f3n de Empresario para Eliminar Condiciones en el el Estatus de Residente Permanente",
+            "form_name": "I-829",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "IPO",
+            "range": [
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 72
+                },
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 39
+                }
+            ],
+            "subtypes": [
+                {
+                    "form_type": "148C",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 72
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 39
+                        }
+                    ],
+                    "service_request_date": "March 19, 2016",
+                    "service_request_date_en": "March 19, 2016",
+                    "service_request_date_es": "19 de marzo de 2016",
+                    "subtype_info_en": "Removal of lawful permanent resident conditions (immigrant investors)",
+                    "subtype_info_es": "Retiro de las condiciones a residentes permanentes legales (inversionistas inmigrantes)",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-829', 'office_code': 'IPO'}"
+}
