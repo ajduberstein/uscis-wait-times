@@ -1,0 +1,54 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Application for Family Unity Benefits",
+            "form_info_es": "Solicitud de Beneficios de Unidad Familiar",
+            "form_name": "I-817",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "SSC",
+            "range": [
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 20
+                },
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 8.5
+                }
+            ],
+            "subtypes": [
+                {
+                    "form_type": "150",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 20
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 8.5
+                        }
+                    ],
+                    "service_request_date": "July 13, 2020",
+                    "service_request_date_en": "July 13, 2020",
+                    "service_request_date_es": "13 de julio de 2020",
+                    "subtype_info_en": "Voluntary departure under the family unity program",
+                    "subtype_info_es": "Salida voluntaria bajo programa de la unidad de la familia",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-817', 'office_code': 'SSC'}"
+}
