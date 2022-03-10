@@ -1,0 +1,54 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Record of Abandonment of Lawful Permanent Resident Status",
+            "form_info_es": "Registro de Abandono de Estatus de Residente Permanente Legal",
+            "form_name": "I-407",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "EFC",
+            "range": [
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 2.5
+                },
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 2
+                }
+            ],
+            "subtypes": [
+                {
+                    "form_type": "407",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 2.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 2
+                        }
+                    ],
+                    "service_request_date": "January 04, 2022",
+                    "service_request_date_en": "January 04, 2022",
+                    "service_request_date_es": "04 de enero de 2022",
+                    "subtype_info_en": "Record of Abandonment of Lawful Permanent Resident Status",
+                    "subtype_info_es": "Registro de Abandono de Estatus de Residente Permanente Legal",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-407', 'office_code': 'EFC'}"
+}
