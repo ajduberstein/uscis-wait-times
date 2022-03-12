@@ -1,0 +1,116 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Application for Temporary Protected Status",
+            "form_info_es": "Solicitud de Estatus de Protecci\u00f3n Temporal",
+            "form_name": "I-821",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "ESC",
+            "range": null,
+            "subtypes": [
+                {
+                    "form_type": "149-ELSALE",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 13.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 10.5
+                        }
+                    ],
+                    "service_request_date": "February 06, 2021",
+                    "service_request_date_en": "February 06, 2021",
+                    "service_request_date_es": "06 de febrero de 2021",
+                    "subtype_info_en": "El Salvador extension",
+                    "subtype_info_es": "Extensi\u00f3n de El Salvador",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "149-ELSALL",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 13.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 10.5
+                        }
+                    ],
+                    "service_request_date": "February 06, 2021",
+                    "service_request_date_en": "February 06, 2021",
+                    "service_request_date_es": "06 de febrero de 2021",
+                    "subtype_info_en": "El Salvador initial or late filing",
+                    "subtype_info_es": "Solicitud inicial o tard\u00eda de El Salvador",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "149-MITCHE",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 13.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 10.5
+                        }
+                    ],
+                    "service_request_date": "February 06, 2021",
+                    "service_request_date_en": "February 06, 2021",
+                    "service_request_date_es": "06 de febrero de 2021",
+                    "subtype_info_en": "Honduras and Nicaragua extension",
+                    "subtype_info_es": "Extensi\u00f3n de Honduras y de Nicaragua",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "149-MITCHL",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 13.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 10.5
+                        }
+                    ],
+                    "service_request_date": "February 06, 2021",
+                    "service_request_date_en": "February 06, 2021",
+                    "service_request_date_es": "06 de febrero de 2021",
+                    "subtype_info_en": "Honduras and Nicaragua initial or late filing",
+                    "subtype_info_es": "Solicitud inicial o tard\u00eda de Honduras y de Nicaragua",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-821', 'office_code': 'ESC'}"
+}
