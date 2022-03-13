@@ -1,0 +1,104 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Application for Employment Authorization",
+            "form_info_es": "Solicitud de Autorizaci\u00f3n de Empleo",
+            "form_name": "I-765",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "YSC",
+            "range": [
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 11
+                },
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 3
+                }
+            ],
+            "subtypes": [
+                {
+                    "form_type": "147-C3",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 3.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 2.5
+                        }
+                    ],
+                    "service_request_date": "December 08, 2021",
+                    "service_request_date_en": "December 08, 2021",
+                    "service_request_date_es": "08 de diciembre de 2021",
+                    "subtype_info_en": "Based on a request by a qualified F-1 academic student [(c)(3)]",
+                    "subtype_info_es": "Basada en una petici\u00f3n por un estudiante acad\u00e9mico cualificado F-1 [(c)(3)]",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "147-C8",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 11.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 10.5
+                        }
+                    ],
+                    "service_request_date": "March 30, 2021",
+                    "service_request_date_en": "March 30, 2021",
+                    "service_request_date_es": "30 de marzo de 2021",
+                    "subtype_info_en": "Based on a pending asylum application [(c)(8)]",
+                    "subtype_info_es": "Basada en una solicitud de asilo pendiente [(c)(8)]",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "147-OTH",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 8
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 5
+                        }
+                    ],
+                    "service_request_date": "July 13, 2021",
+                    "service_request_date_en": "July 13, 2021",
+                    "service_request_date_es": "13 de julio de 2021",
+                    "subtype_info_en": "All other applications for employment authorization",
+                    "subtype_info_es": "Todas las dem\u00e1s solicitudes para autorizaci\u00f3n de empleo",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-765', 'office_code': 'YSC'}"
+}

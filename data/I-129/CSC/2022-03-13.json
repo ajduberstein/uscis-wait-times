@@ -1,0 +1,341 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Petition for a Nonimmigrant Worker",
+            "form_info_es": "Petici\u00f3n de Trabajador No Inmigrante",
+            "form_name": "I-129",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "CSC",
+            "range": null,
+            "subtypes": [
+                {
+                    "form_type": "137-BL",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 4
+                        },
+                        {
+                            "unit": "Month",
+                            "unit_en": "Month",
+                            "unit_es": "Mes",
+                            "value": 1
+                        }
+                    ],
+                    "service_request_date": "November 13, 2021",
+                    "service_request_date_en": "November 13, 2021",
+                    "service_request_date_es": "13 de noviembre de 2021",
+                    "subtype_info_en": "Blanket L",
+                    "subtype_info_es": "Petici\u00f3n General L",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "137-E",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 7.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 5.5
+                        }
+                    ],
+                    "service_request_date": "August 03, 2021",
+                    "service_request_date_en": "August 03, 2021",
+                    "service_request_date_es": "03 de agosto de 2021",
+                    "subtype_info_en": "E - Treaty traders and investors",
+                    "subtype_info_es": "E - Comerciantes e inversionistas",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "137-H1B1",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 8.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 6.5
+                        }
+                    ],
+                    "service_request_date": "July 02, 2021",
+                    "service_request_date_en": "July 02, 2021",
+                    "service_request_date_es": "02 de julio de 2021",
+                    "subtype_info_en": "H-1B - Specialty occupation - Visa to be issued abroad",
+                    "subtype_info_es": "H-1B - Ocupaci\u00f3n especial - visa que se expedir\u00e1 en el exterior",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "137-H1B2",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 8.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 6.5
+                        }
+                    ],
+                    "service_request_date": "July 02, 2021",
+                    "service_request_date_en": "July 02, 2021",
+                    "service_request_date_es": "02 de julio de 2021",
+                    "subtype_info_en": "H-1B - Specialty occupation - Change of status in the U.S.",
+                    "subtype_info_es": "H-1B - Ocupaci\u00f3n especial - cambio de la condici\u00f3n migratoria en los E.E.U.U.",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "137-H1B3",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 8.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 6.5
+                        }
+                    ],
+                    "service_request_date": "July 02, 2021",
+                    "service_request_date_en": "July 02, 2021",
+                    "service_request_date_es": "02 de julio de 2021",
+                    "subtype_info_en": "H-1B - Specialty occupation - Extension of stay in the U.S.",
+                    "subtype_info_es": "H-1B - Ocupaci\u00f3n especial - extensi\u00f3n de la estad\u00eda en los E.E.U.U.",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "137-H2A",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 2.5
+                        },
+                        {
+                            "unit": "Weeks",
+                            "unit_en": "Weeks",
+                            "unit_es": "Semanas",
+                            "value": 2
+                        }
+                    ],
+                    "service_request_date": "February 26, 2022",
+                    "service_request_date_en": "February 26, 2022",
+                    "service_request_date_es": "26 de febrero de 2022",
+                    "subtype_info_en": "H-2A - Temporary workers",
+                    "subtype_info_es": "H-2A - Trabajadores temporales",
+                    "subtype_note_en": "If you are a petitioner for an H-2A Temporary Agricultural Worker and your Form I-129 has been pending longer than 15 days and you have not received a decision or a Request for Evidence, you may contact USCIS at (1-800) 375-5283 to inquire about your petition.",
+                    "subtype_note_es": "Si usted es un peticionario de un Trabajador Agricultor Temporal H-2A y su Formulario o I-129 ha estado en tr\u221a\u00b0mite durante m\u221a\u00b0s de 15 d\u221a\u2260as y usted no ha recibido una decisi\u221a\u2265n o una Solicitud de Evidencia, puede comunicarse con USCIS al (1-800) 375-5283 para preguntar acerca de su petici\u221a\u2265n."
+                },
+                {
+                    "form_type": "137-H2B",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 3
+                        },
+                        {
+                            "unit": "Month",
+                            "unit_en": "Month",
+                            "unit_es": "Mes",
+                            "value": 1
+                        }
+                    ],
+                    "service_request_date": "December 13, 2021",
+                    "service_request_date_en": "December 13, 2021",
+                    "service_request_date_es": "13 de diciembre de 2021",
+                    "subtype_info_en": "H-2B - Other temporary workers",
+                    "subtype_info_es": "H-2B - Otros trabajadores temporales",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "137-H3",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 4
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 2
+                        }
+                    ],
+                    "service_request_date": "November 13, 2021",
+                    "service_request_date_en": "November 13, 2021",
+                    "service_request_date_es": "13 de noviembre de 2021",
+                    "subtype_info_en": "H-3 - Temporary trainees",
+                    "subtype_info_es": "H-3 - Aprendices temporales",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "137-L",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 3
+                        },
+                        {
+                            "unit": "Month",
+                            "unit_en": "Month",
+                            "unit_es": "Mes",
+                            "value": 1
+                        }
+                    ],
+                    "service_request_date": "December 13, 2021",
+                    "service_request_date_en": "December 13, 2021",
+                    "service_request_date_es": "13 de diciembre de 2021",
+                    "subtype_info_en": "L - Intracompany transfers",
+                    "subtype_info_es": "L - Transferencias entre Compa\u00f1\u00edas",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "137-O",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 3
+                        }
+                    ],
+                    "service_request_date": "October 24, 2021",
+                    "service_request_date_en": "October 24, 2021",
+                    "service_request_date_es": "24 de octubre de 2021",
+                    "subtype_info_en": "O - Extraordinary ability",
+                    "subtype_info_es": "O - Capacidad extraordinaria",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "137-P",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 3.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 1.5
+                        }
+                    ],
+                    "service_request_date": "December 03, 2021",
+                    "service_request_date_en": "December 03, 2021",
+                    "service_request_date_es": "03 de diciembre de 2021",
+                    "subtype_info_en": "P - Athletes, artists, and entertainers",
+                    "subtype_info_es": "P - Atletas, artistas, y actores",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "137-Q",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 4
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 2
+                        }
+                    ],
+                    "service_request_date": "November 13, 2021",
+                    "service_request_date_en": "November 13, 2021",
+                    "service_request_date_es": "13 de noviembre de 2021",
+                    "subtype_info_en": "Q - Cultural exchange visitors and exchange visitors participating in the Irish Peace process",
+                    "subtype_info_es": "Q - Visitantes de intercambio culturales y visitantes de intercambio que participan en el proceso irland\u00e9s de la paz",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "137-R",
+                    "publication_date": "January 28, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 12
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 9.5
+                        }
+                    ],
+                    "service_request_date": "March 21, 2021",
+                    "service_request_date_en": "March 21, 2021",
+                    "service_request_date_es": "21 de marzo de 2021",
+                    "subtype_info_en": "R - Religious occupation",
+                    "subtype_info_es": "R - Ocupaci\u00f3n religiosa",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-129', 'office_code': 'CSC'}"
+}
