@@ -1,0 +1,354 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Application to Extend/Change Nonimmigrant Status",
+            "form_info_es": "Solicitud para Extender/Cambiar el Estatus de No Inmigrante",
+            "form_name": "I-539",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "CSC",
+            "range": [
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 17
+                },
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 9.5
+                }
+            ],
+            "subtypes": [
+                {
+                    "form_type": "139A-B",
+                    "publication_date": "March 14, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 18
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 13.5
+                        }
+                    ],
+                    "service_request_date": "September 28, 2020",
+                    "service_request_date_en": "September 28, 2020",
+                    "service_request_date_es": "28 de septiembre de 2020",
+                    "subtype_info_en": "Change of status for B nonimmigrant",
+                    "subtype_info_es": "Cambio de estatus para no inmigrante B",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "139AC-H",
+                    "publication_date": "March 14, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 12.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 7.5
+                        }
+                    ],
+                    "service_request_date": "March 07, 2021",
+                    "service_request_date_en": "March 07, 2021",
+                    "service_request_date_es": "07 de marzo de 2021",
+                    "subtype_info_en": "Change of status for H4 dependents with I-765",
+                    "subtype_info_es": "Cambio de estatus para dependientes H-4 con I-765",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "139A-FMJ",
+                    "publication_date": "March 14, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 21
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 14.5
+                        }
+                    ],
+                    "service_request_date": "June 18, 2020",
+                    "service_request_date_en": "June 18, 2020",
+                    "service_request_date_es": "18 de junio de 2020",
+                    "subtype_info_en": "Change of status for F or M students and J exchange visitor category",
+                    "subtype_info_es": "Cambio de estatus para los estudiantes F o M y para la categor\u00eda de visitante de intercambio J",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "139A-H",
+                    "publication_date": "March 14, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 13.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 7
+                        }
+                    ],
+                    "service_request_date": "February 08, 2021",
+                    "service_request_date_en": "February 08, 2021",
+                    "service_request_date_es": "08 de febrero de 2021",
+                    "subtype_info_en": "Change of status for H4 dependents",
+                    "subtype_info_es": "Cambio de estatus para dependientes H-4",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "139A-L",
+                    "publication_date": "March 14, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 16.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 7.5
+                        }
+                    ],
+                    "service_request_date": "November 11, 2020",
+                    "service_request_date_en": "November 11, 2020",
+                    "service_request_date_es": "11 de noviembre de 2020",
+                    "subtype_info_en": "Change of status for L dependents",
+                    "subtype_info_es": "Cambio de estatus para dependientes L",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "139A-OTH",
+                    "publication_date": "March 14, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 19
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 10
+                        }
+                    ],
+                    "service_request_date": "August 20, 2020",
+                    "service_request_date_en": "August 20, 2020",
+                    "service_request_date_es": "20 de agosto de 2020",
+                    "subtype_info_en": "All other change of status applications",
+                    "subtype_info_es": "Todas las dem\u00e1s solicitudes de cambio de estatus",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "139B-B",
+                    "publication_date": "March 14, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 17.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 14
+                        }
+                    ],
+                    "service_request_date": "September 29, 2020",
+                    "service_request_date_en": "September 29, 2020",
+                    "service_request_date_es": "29 de septiembre de 2020",
+                    "subtype_info_en": "Extension of stay for B nonimmigrant",
+                    "subtype_info_es": "Extensi\u00f3n de estad\u00eda para no inmigrante B",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "139BC-H",
+                    "publication_date": "March 14, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 9.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 6.5
+                        }
+                    ],
+                    "service_request_date": "May 31, 2021",
+                    "service_request_date_en": "May 31, 2021",
+                    "service_request_date_es": "31 de mayo de 2021",
+                    "subtype_info_en": "Extension of stay for H4 dependents with I-765",
+                    "subtype_info_es": "Extensi\u00f3n de estad\u00eda para dependientes H-4 con I-765",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "139B-FMJ",
+                    "publication_date": "March 14, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 19
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 16
+                        }
+                    ],
+                    "service_request_date": "August 29, 2020",
+                    "service_request_date_en": "August 29, 2020",
+                    "service_request_date_es": "29 de agosto de 2020",
+                    "subtype_info_en": "Extension of stay for F or M students and J exchange visitor category",
+                    "subtype_info_es": "Extensi\u00f3n de estad\u00eda para estudiantes F o M y para visitantes de intercambio J",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "139B-H",
+                    "publication_date": "March 14, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 10.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 7
+                        }
+                    ],
+                    "service_request_date": "May 01, 2021",
+                    "service_request_date_en": "May 01, 2021",
+                    "service_request_date_es": "01 de mayo de 2021",
+                    "subtype_info_en": "Extension of stay for H4 dependents",
+                    "subtype_info_es": "Extensi\u00f3n de estad\u00eda para dependientes H-4",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "139B-L",
+                    "publication_date": "March 14, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 12
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 7.5
+                        }
+                    ],
+                    "service_request_date": "March 17, 2021",
+                    "service_request_date_en": "March 17, 2021",
+                    "service_request_date_es": "17 de marzo de 2021",
+                    "subtype_info_en": "Extension of stay for L dependents",
+                    "subtype_info_es": "Extensi\u00f3n de estad\u00eda para dependientes L",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "139B-OTH",
+                    "publication_date": "March 14, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 17
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 9
+                        }
+                    ],
+                    "service_request_date": "October 18, 2020",
+                    "service_request_date_en": "October 18, 2020",
+                    "service_request_date_es": "18 de octubre de 2020",
+                    "subtype_info_en": "All other extension of stay applications",
+                    "subtype_info_es": "Todas las dem\u00e1s solicitudes de extensi\u00f3n",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "139C",
+                    "publication_date": "March 14, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 19.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 15.5
+                        }
+                    ],
+                    "service_request_date": "July 30, 2020",
+                    "service_request_date_en": "July 30, 2020",
+                    "service_request_date_es": "30 de julio de 2020",
+                    "subtype_info_en": "Reinstatement to student status",
+                    "subtype_info_es": "Reinstalar el estatus de estudiante",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-539', 'office_code': 'CSC'}"
+}
