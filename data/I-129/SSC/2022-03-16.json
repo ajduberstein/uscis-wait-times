@@ -1,0 +1,116 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Petition for a Nonimmigrant Worker",
+            "form_info_es": "Petici\u00f3n de Trabajador No Inmigrante",
+            "form_name": "I-129",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "SSC",
+            "range": null,
+            "subtypes": [
+                {
+                    "form_type": "137-H1B1",
+                    "publication_date": "March 14, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 4
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 2
+                        }
+                    ],
+                    "service_request_date": "November 16, 2021",
+                    "service_request_date_en": "November 16, 2021",
+                    "service_request_date_es": "16 de noviembre de 2021",
+                    "subtype_info_en": "H-1B - Specialty occupation - Visa to be issued abroad",
+                    "subtype_info_es": "H-1B - Ocupaci\u00f3n especial - visa que se expedir\u00e1 en el exterior",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "137-H1B2",
+                    "publication_date": "March 14, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 4
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 2
+                        }
+                    ],
+                    "service_request_date": "November 16, 2021",
+                    "service_request_date_en": "November 16, 2021",
+                    "service_request_date_es": "16 de noviembre de 2021",
+                    "subtype_info_en": "H-1B - Specialty occupation - Change of status in the U.S.",
+                    "subtype_info_es": "H-1B - Ocupaci\u00f3n especial - cambio de la condici\u00f3n migratoria en los E.E.U.U.",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "137-H1B3",
+                    "publication_date": "March 14, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 4
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 2
+                        }
+                    ],
+                    "service_request_date": "November 16, 2021",
+                    "service_request_date_en": "November 16, 2021",
+                    "service_request_date_es": "16 de noviembre de 2021",
+                    "subtype_info_en": "H-1B - Specialty occupation - Extension of stay in the U.S.",
+                    "subtype_info_es": "H-1B - Ocupaci\u00f3n especial - extensi\u00f3n de la estad\u00eda en los E.E.U.U.",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "137-L",
+                    "publication_date": "March 14, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 7
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 5
+                        }
+                    ],
+                    "service_request_date": "August 26, 2021",
+                    "service_request_date_en": "August 26, 2021",
+                    "service_request_date_es": "26 de agosto de 2021",
+                    "subtype_info_en": "L - Intracompany transfers",
+                    "subtype_info_es": "L - Transferencias entre Compa\u00f1\u00edas",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-129', 'office_code': 'SSC'}"
+}
