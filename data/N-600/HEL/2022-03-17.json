@@ -1,0 +1,54 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Application for Certificate of Citizenship",
+            "form_info_es": "Solicitud de Certificado de Ciudadan\u00eda",
+            "form_name": "N-600",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "HEL",
+            "range": [
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 21.5
+                },
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 15
+                }
+            ],
+            "subtypes": [
+                {
+                    "form_type": "161A",
+                    "publication_date": "March 14, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 21.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 15
+                        }
+                    ],
+                    "service_request_date": "June 15, 2020",
+                    "service_request_date_en": "June 15, 2020",
+                    "service_request_date_es": "15 de junio de 2020",
+                    "subtype_info_en": "Application for recognition of U.S. citizenship",
+                    "subtype_info_es": "Solicitud para el reconocimiento de la ciudadan\u00eda estadounidense",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'N-600', 'office_code': 'HEL'}"
+}
