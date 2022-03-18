@@ -1,0 +1,43 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Petition for U Nonimmigrant Status",
+            "form_info_es": "Solicitud de Estatus U de No Inmigrante",
+            "form_name": "I-918",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "NSC",
+            "pilot_content_en": "This processing time is an estimate of how long it will take us to process your case based on the number of pending cases we have. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
+            "pilot_content_es": "Este tiempo de procesamiento es un estimado de cu\u00e1nto nos tomar\u00e1 procesar su caso a base la cantidad de casos pendientes que tenemos. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
+            "range": null,
+            "subtypes": [
+                {
+                    "form_type": "918U",
+                    "publication_date": "March 14, 2022",
+                    "range": [
+                        {
+                            "unit": "",
+                            "unit_en": "learn more.",
+                            "unit_es": "\n                continuaci\u00f3n para obtener m\u00e1s informaci\u00f3n.",
+                            "value": ""
+                        },
+                        {
+                            "unit": "",
+                            "unit_en": "See below",
+                            "unit_es": "Vea",
+                            "value": ""
+                        }
+                    ],
+                    "service_request_date": "",
+                    "service_request_date_en": "",
+                    "service_request_date_es": "",
+                    "subtype_info_en": "Provide temporary immigration benefits to an alien who is a victim of qualifying criminal activity, and their qualifying family (Time from Initial Filing to Waiting List Determination)",
+                    "subtype_info_es": "Proporcionar beneficios temporales de inmigraci\u00f3n a un extranjero que es v\u00edctima de una actividad criminal que califique, y a su familia que re\u00fana los requisitos",
+                    "subtype_note_en": "~ ~ ~ USCIS IS TEMPORARILY REMOVING THE PROCESSING TIMES FOR FORM I-918. ~ ~ ~ Historically, USCIS has reported the processing time from filing to waiting list determination.\u202f On June 14, 2021, USCIS updated the USCIS Policy Manual to implement a new process, referred to as the Bona Fide Determination (BFD).\u202f The new policy enables USCIS to review petitions more efficiently, and provide the benefits of employment authorization and deferred action to more petitioners in a shorter time period than the waiting list process.\u202f As with the waiting list, petitions will generally be adjudicated under the BFD process in the order they were received.\u202f\u202f While USCIS implements the BFD process and gathers initial data on the BFD adjudications, including the possible impacts of the new process on overall U adjudications, USCIS is not reporting processing times for the Petition for U Nonimmigrant Status (Form I-918).\u202f This page will be updated on January 1, 2022 or once USCIS has collected sufficient data to report accurate BFD processing times, whichever occurs earlier. For reference, the final processing time range calculated under the pre-BFD process, marking the time from initial filing to waiting list determination, was 60.5-61 months.",
+                    "subtype_note_es": "~ ~ ~ USCIS HA ELIMINADO TEMPORALMENTE LOS TIEMPOS DE PROCESAMIENTO DEL FORMULARIO I-918. ~ ~ ~ Hist\u00f3ricamente, USCIS ha reportado el tiempo de procesamiento desde la presentaci\u00f3n hasta la etapa de determinaci\u00f3n de lista de espera. El 14 de junio de 2021, USCIS actualiz\u00f3 el Manual de Pol\u00edticas de USCIS para implementar un nuevo proceso conocido como la Determinaci\u00f3n de Autenticidad (BFD). La nueva pol\u00edtica permite que USCIS revise las peticiones de manera m\u00e1s eficiente, y proporcione los beneficios de autorizaci\u00f3n de empleo y acci\u00f3n diferida a m\u00e1s peticionarios en un periodo menor que el proceso de lista de espera. Al igual que sucede en el proceso de lista de espera, las peticiones, por lo general, son adjudicadas bajo el proceso de BFD en el orden que se reciben. Mientras USCIS implementa el proceso BFD y recopila los datos iniciales de las adjudicaciones BFD, incluidos los posibles efectos del nuevo proceso en las adjudicaciones U en general, USCIS no reportar\u00e1 los tiempos de procesamiento de las Peticiones de Estatus de No Inmigrante U (Formulario I-918). Esta p\u00e1gina ser\u00e1 actualizada el 1 de enero de 2022 o una vez USCIS haya recopilado datos suficientes para reportar tiempos de procesamiento BFD precisos, lo que ocurra primero. Como referencia, el rango del tiempo de procesamiento final calculado bajo el proceso anterior al de BFD, que marca el tiempo desde la presentaci\u00f3n inicial hasta la determinaci\u00f3n de lista de espera, fue de 60.5-61 meses."
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-918', 'office_code': 'NSC'}"
+}
