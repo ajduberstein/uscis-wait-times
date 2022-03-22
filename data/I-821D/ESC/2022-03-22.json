@@ -1,0 +1,68 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Consideration of Deferred Action for Childhood Arrivals",
+            "form_info_es": "Consideraci\u00f3n de Acci\u00f3n Diferida para los Llegados en la Infancia",
+            "form_name": "I-821D",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "ESC",
+            "pilot_content_en": "This processing time is based on how long it took us to process 80% of cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
+            "pilot_content_es": "Este tiempo de procesamiento est\u00e1 basado en cu\u00e1nto nos tom\u00f3 procesar 80% de los casos durante los pasados seis meses. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
+            "range": null,
+            "subtypes": [
+                {
+                    "form_type": "149-CAT",
+                    "publication_date": "March 14, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 3.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 3
+                        }
+                    ],
+                    "service_request_date": "December 07, 2021",
+                    "service_request_date_en": "December 07, 2021",
+                    "service_request_date_es": "07 de diciembre de 2021",
+                    "subtype_info_en": "Renewal",
+                    "subtype_info_es": "Renovaci\u00f3n",
+                    "subtype_note_en": "If your case been pending more than 105 days, you can submit a \u201cCase outside normal processing time\u201d service request inquiry online (https://www.uscis.gov/e-request). Form I-821D is not listed in the menu options. Please use your I-765 receipt number to submit the request.",
+                    "subtype_note_es": "Si su caso ha estado pendiente m\u00e1s de 105 d\u00edas, puede enviar una solicitud de informaci\u00f3n sobre \"caso fuera del tiempo de procesamiento normal\" en l\u00ednea (https://www.uscis.gov/e-request). El Formulario I-821D no aparece en las opciones de men\u00fa. Por favor, utilice su n\u00famero de recibo I-765 para enviar la solicitud."
+                },
+                {
+                    "form_type": "149-ECA",
+                    "publication_date": "March 14, 2022",
+                    "range": [
+                        {
+                            "unit": "",
+                            "unit_en": "learn more.",
+                            "unit_es": "\n                continuaci\u00f3n para obtener m\u00e1s informaci\u00f3n.",
+                            "value": ""
+                        },
+                        {
+                            "unit": "",
+                            "unit_en": "See below",
+                            "unit_es": "Vea",
+                            "value": ""
+                        }
+                    ],
+                    "service_request_date": "",
+                    "service_request_date_en": "",
+                    "service_request_date_es": "",
+                    "subtype_info_en": "Request for Deferred Action",
+                    "subtype_info_es": "Solicitud para Acci\u00f3n Diferida",
+                    "subtype_note_en": "Consistent with the July 16, 2021, order from the Southern District of Texas that prohibits DHS from granting initial DACA requests, USCIS has suspended calculations of processing times for initial DACA requests. https://www.uscis.gov/DACADecisionStateofTexas",
+                    "subtype_note_es": "Si su caso ha estado pendiente m\u00e1s de 105 d\u00edas, puede enviar una solicitud de informaci\u00f3n sobre \"caso fuera del tiempo de procesamiento normal\" en l\u00ednea. El Formulario I-821D no aparece en las opciones de men\u00fa. Por favor, utilice su n\u00famero de recibo I-765 para enviar la solicitud. https://www.uscis.gov/DACADecisionStateofTexas"
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-821D', 'office_code': 'ESC'}"
+}

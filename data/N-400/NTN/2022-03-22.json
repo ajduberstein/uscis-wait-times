@@ -1,0 +1,56 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Application for Naturalization",
+            "form_info_es": "Solicitud de Naturalizaci\u00f3n",
+            "form_name": "N-400",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "NTN",
+            "pilot_content_en": "This processing time is based on how long it took us to process 80% of cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
+            "pilot_content_es": "Este tiempo de procesamiento est\u00e1 basado en cu\u00e1nto nos tom\u00f3 procesar 80% de los casos durante los pasados seis meses. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
+            "range": [
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 17.5
+                },
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 12.5
+                }
+            ],
+            "subtypes": [
+                {
+                    "form_type": "160A",
+                    "publication_date": "March 14, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 17.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 12.5
+                        }
+                    ],
+                    "service_request_date": "October 19, 2020",
+                    "service_request_date_en": "October 19, 2020",
+                    "service_request_date_es": "19 de octubre de 2020",
+                    "subtype_info_en": "Application for Naturalization",
+                    "subtype_info_es": "Solicitud de Naturalizaci\u00f3n",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'N-400', 'office_code': 'NTN'}"
+}
