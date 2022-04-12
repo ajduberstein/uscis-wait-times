@@ -1,0 +1,57 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Petition for U Nonimmigrant Status",
+            "form_info_es": "Solicitud de Estatus U de No Inmigrante",
+            "form_name": "I-918",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "ESC",
+            "pilot_content_en": "This processing time is based on how long it took us to process 80% of cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
+            "pilot_content_es": "Este tiempo de procesamiento est\u00e1 basado en cu\u00e1nto nos tom\u00f3 procesar 80% de los casos durante los pasados seis meses. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
+            "pilot_form": true,
+            "range": [
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 63.5
+                },
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 59.5
+                }
+            ],
+            "subtypes": [
+                {
+                    "form_type": "918ABFD",
+                    "publication_date": "March 29, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 63.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 59.5
+                        }
+                    ],
+                    "service_request_date": "December 28, 2016",
+                    "service_request_date_en": "December 28, 2016",
+                    "service_request_date_es": "28 de diciembre de 2016",
+                    "subtype_info_en": "Petition for a noncitizen who is a victim of qualifying criminal activity, and their qualifying family members (Time from Initial Filing to Bona Fide Determination (BFD) Review)",
+                    "subtype_info_es": "Petici\u00f3n para un no ciudadano que es una v\u00edctima de una actividad criminal cualificada y sus familiares elegibles (Tiempo para una Presentaci\u00f3n Inicial de Evaluaci\u00f3n de Determinaci\u00f3n de Autenticidad (BFD))",
+                    "subtype_note_en": "The above time range reflects the time from receipt to issuance of either a BFD notice or a notice that the petition will be considered for waiting list placement. It does not reflect the current processing times from initial receipt to the final issuance of U nonimmigrant status. If you have not already submitted your Form I-765 with your initial Petition for U nonimmigrant status, please file the Form I-765 according to the posted date on the Form I-918 page.",
+                    "subtype_note_es": "El rango de tiempo anterior refleja el tiempo desde que se recibe la petici\u00f3n hasta la emisi\u00f3n de una notificaci\u00f3n de BFD o una notificaci\u00f3n de que la petici\u00f3n ser\u00e1 considerada para la colocaci\u00f3n en la lista de espera. No refleja los tiempos de procesamiento actuales desde el recibo inicial hasta la emisi\u00f3n final del estatus de no inmigrante U. Si a\u00fan no ha presentado su Formulario I-765 con su Petici\u00f3n inicial para el estatus de no inmigrante U, presente el Formulario I-765 de acuerdo con la fecha publicada en la p\u00e1gina del Formulario I-918."
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-918', 'office_code': 'ESC'}"
+}

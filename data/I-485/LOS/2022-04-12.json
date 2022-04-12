@@ -1,0 +1,82 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Application to Register Permanent Residence or Adjust Status",
+            "form_info_es": "Solicitud para Registrar la Residencia Permanente o Ajustar de Estatus",
+            "form_name": "I-485",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "LOS",
+            "pilot_content_en": "This processing time is based on how long it took us to process 80% of cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
+            "pilot_content_es": "Este tiempo de procesamiento est\u00e1 basado en cu\u00e1nto nos tom\u00f3 procesar 80% de los casos durante los pasados seis meses. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
+            "pilot_form": true,
+            "range": [
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 25.5
+                },
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 9
+                }
+            ],
+            "subtypes": [
+                {
+                    "form_type": "I-485 Employment",
+                    "publication_date": "March 29, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 16
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 10
+                        }
+                    ],
+                    "service_request_date": "December 15, 2020",
+                    "service_request_date_en": "December 15, 2020",
+                    "service_request_date_es": "15 de diciembre de 2020",
+                    "subtype_info_en": "Employment-Based adjustment applications",
+                    "subtype_info_es": "Solicitudes de Modificaci\u00f3n Migratoria Basadas en el Empleo",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "I-485 Family",
+                    "publication_date": "March 29, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 28
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 7.5
+                        }
+                    ],
+                    "service_request_date": "December 16, 2019",
+                    "service_request_date_en": "December 16, 2019",
+                    "service_request_date_es": "16 de diciembre de 2019",
+                    "subtype_info_en": "Family-Based adjustment applications",
+                    "subtype_info_es": "Ajuste de estatus basado en la familia",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-485', 'office_code': 'LOS'}"
+}
