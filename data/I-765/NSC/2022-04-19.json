@@ -1,0 +1,232 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Application for Employment Authorization",
+            "form_info_es": "Solicitud de Autorizaci\u00f3n de Empleo",
+            "form_name": "I-765",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "NSC",
+            "pilot_content_en": "This processing time is based on how long it took us to process 80% of cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
+            "pilot_content_es": "Este tiempo de procesamiento est\u00e1 basado en cu\u00e1nto nos tom\u00f3 procesar 80% de los casos durante los pasados seis meses. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
+            "pilot_form": true,
+            "range": [
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 10
+                },
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 3.5
+                }
+            ],
+            "subtypes": [
+                {
+                    "form_type": "147-OTH",
+                    "publication_date": "March 29, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 10
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 1.5
+                        }
+                    ],
+                    "service_request_date": "June 30, 2021",
+                    "service_request_date_en": "June 30, 2021",
+                    "service_request_date_es": "30 de junio de 2021",
+                    "subtype_info_en": "All other applications for employment authorization",
+                    "subtype_info_es": "Todas las dem\u00e1s solicitudes para autorizaci\u00f3n de empleo",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "147-C33",
+                    "publication_date": "March 29, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 3.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 3
+                        }
+                    ],
+                    "service_request_date": "January 04, 2022",
+                    "service_request_date_en": "January 04, 2022",
+                    "service_request_date_es": "04 de enero de 2022",
+                    "subtype_info_en": "Based on an approved, concurrently filed, I-821D [(c)(33)]",
+                    "subtype_info_es": "Basado en un I-821D, Examen de acci\u00f3n diferida para llegadas Infancia (c)(33) aprobada y presentada simult\u00e1neamente",
+                    "subtype_note_en": "If your case been pending more than 105 days, you can submit a \u201cCase outside normal processing time\u201d service request inquiry online (https://www.uscis.gov/e-request). Form I-821D is not listed in the menu options. Please use your I-765 receipt number to submit the request.",
+                    "subtype_note_es": "Si su caso ha estado pendiente m\u00e1s de 105 d\u00edas, puede enviar una solicitud de informaci\u00f3n sobre \"caso fuera del tiempo de procesamiento normal\" en l\u00ednea (https://www.uscis.gov/e-request). El Formulario I-821D no aparece en las opciones de men\u00fa. Por favor, utilice su n\u00famero de recibo I-765 para enviar la solicitud."
+                },
+                {
+                    "form_type": "147-C9",
+                    "publication_date": "March 29, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 14.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 12
+                        }
+                    ],
+                    "service_request_date": "February 04, 2021",
+                    "service_request_date_en": "February 04, 2021",
+                    "service_request_date_es": "04 de febrero de 2021",
+                    "subtype_info_en": "Based on a pending I-485 adjustment application [(c)(9)]",
+                    "subtype_info_es": "Basada en una solicitud de ajuste pendiente  I-485 [(c)(9)]",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "147-C8",
+                    "publication_date": "March 29, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 9
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 6.5
+                        }
+                    ],
+                    "service_request_date": "July 29, 2021",
+                    "service_request_date_en": "July 29, 2021",
+                    "service_request_date_es": "29 de julio de 2021",
+                    "subtype_info_en": "Based on a pending asylum application [(c)(8)]",
+                    "subtype_info_es": "Basada en una solicitud de asilo pendiente [(c)(8)]",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "147-A3",
+                    "publication_date": "March 29, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 6.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 4
+                        }
+                    ],
+                    "service_request_date": "October 11, 2021",
+                    "service_request_date_en": "October 11, 2021",
+                    "service_request_date_es": "11 de octubre de 2021",
+                    "subtype_info_en": "Based on being admitted as a Refugee [(a)(3)]",
+                    "subtype_info_es": "Basado en haber sido admitido como refugiado [(a)(3)]",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "147-A5",
+                    "publication_date": "March 29, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 11
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 6.5
+                        }
+                    ],
+                    "service_request_date": "June 02, 2021",
+                    "service_request_date_en": "June 02, 2021",
+                    "service_request_date_es": "02 de junio de 2021",
+                    "subtype_info_en": "Based on an approved asylum application [(a)(5)]",
+                    "subtype_info_es": "Basada en una solicitud de asilo aprobada [(a)(5)]",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "147-539C26",
+                    "publication_date": "March 29, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 10.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 6
+                        }
+                    ],
+                    "service_request_date": "June 09, 2021",
+                    "service_request_date_en": "June 09, 2021",
+                    "service_request_date_es": "09 de junio de 2021",
+                    "subtype_info_en": "Based on being an H-4 spouse of an H-1B nonimmigrant (filed with I-539 H4) [(c)(26)]",
+                    "subtype_info_es": "Basado en ser un c\u00f3nyuge H-4 de un no inmigrante H-1B (presentado con el Formulario I-539 H4) [(c)(26)]",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "147-C26",
+                    "publication_date": "March 29, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 12
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 6.5
+                        }
+                    ],
+                    "service_request_date": "May 04, 2021",
+                    "service_request_date_en": "May 04, 2021",
+                    "service_request_date_es": "04 de mayo de 2021",
+                    "subtype_info_en": "Based on being an H-4 spouse of an H-1B nonimmigrant (Standalone; not filed with I-539 H4) [(c)(26)]",
+                    "subtype_info_es": "Basado en ser un c\u00f3nyuge de un no inmigrante H-1B (presentado independientemente, no con el I-539 H4) [(c)(26)]",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-765', 'office_code': 'NSC'}"
+}
