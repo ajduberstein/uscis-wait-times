@@ -1,0 +1,57 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Petition to Remove Conditions on Residence",
+            "form_info_es": "Petici\u00f3n para Eliminar las Condiciones en la Residencia",
+            "form_name": "I-751",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "SSC",
+            "pilot_content_en": "This processing time is based on how long it took us to process 80% of cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
+            "pilot_content_es": "Este tiempo de procesamiento est\u00e1 basado en cu\u00e1nto nos tom\u00f3 procesar 80% de los casos durante los pasados seis meses. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
+            "pilot_form": true,
+            "range": [
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 11
+                },
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 8
+                }
+            ],
+            "subtypes": [
+                {
+                    "form_type": "148A",
+                    "publication_date": "March 29, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 11
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 8
+                        }
+                    ],
+                    "service_request_date": "June 10, 2021",
+                    "service_request_date_en": "June 10, 2021",
+                    "service_request_date_es": "10 de junio de 2021",
+                    "subtype_info_en": "Removal of lawful permanent resident conditions (spouses of U.S. citizens and lawful permanent residents)",
+                    "subtype_info_es": "Retiro de las condiciones a residentes permanentes legales (esposos de los ciudadanos de EE.UU. y de los residentes permanentes legales)",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-751', 'office_code': 'SSC'}"
+}
