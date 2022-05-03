@@ -1,0 +1,82 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Application to Extend/Change Nonimmigrant Status",
+            "form_info_es": "Solicitud para Extender/Cambiar el Estatus de No Inmigrante",
+            "form_name": "I-539",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "NBC",
+            "pilot_content_en": "This processing time is based on how long it took us to process 80% of cases over the past six months. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
+            "pilot_content_es": "Este tiempo de procesamiento est\u00e1 basado en cu\u00e1nto nos tom\u00f3 procesar 80% de los casos durante los pasados seis meses. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
+            "pilot_form": true,
+            "range": [
+                {
+                    "unit": "Months",
+                    "unit_en": "Months",
+                    "unit_es": "Meses",
+                    "value": 3.5
+                },
+                {
+                    "unit": "Week",
+                    "unit_en": "Week",
+                    "unit_es": "Semana",
+                    "value": 1
+                }
+            ],
+            "subtypes": [
+                {
+                    "form_type": "139A-OTH",
+                    "publication_date": "March 29, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 2.5
+                        },
+                        {
+                            "unit": "Week",
+                            "unit_en": "Week",
+                            "unit_es": "Semana",
+                            "value": 1
+                        }
+                    ],
+                    "service_request_date": "February 17, 2022",
+                    "service_request_date_en": "February 17, 2022",
+                    "service_request_date_es": "17 de febrero de 2022",
+                    "subtype_info_en": "All other change of status applications",
+                    "subtype_info_es": "Todas las dem\u00e1s solicitudes de cambio de estatus",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                },
+                {
+                    "form_type": "139B-OTH",
+                    "publication_date": "March 29, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 6.5
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 2
+                        }
+                    ],
+                    "service_request_date": "October 28, 2021",
+                    "service_request_date_en": "October 28, 2021",
+                    "service_request_date_es": "28 de octubre de 2021",
+                    "subtype_info_en": "All other extension of stay applications",
+                    "subtype_info_es": "Todas las dem\u00e1s solicitudes de extensi\u00f3n",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-539', 'office_code': 'NBC'}"
+}

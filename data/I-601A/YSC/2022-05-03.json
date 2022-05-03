@@ -1,0 +1,44 @@
+{
+    "data": {
+        "processing_time": {
+            "form_info_en": "Application for Provisional Unlawful Presence Waiver",
+            "form_info_es": "Solicitud de Exenci\u00f3n Provisional por Presencia Ilegal",
+            "form_name": "I-601A",
+            "form_note_en": null,
+            "form_note_es": null,
+            "office_code": "YSC",
+            "pilot_content_en": "This processing time is an estimate of how long it will take us to process your case based on the number of pending cases we have. Each case is unique, and some cases may take longer than others. Processing times should be used as a reference point, not an absolute measure of how long your case will take to be completed.",
+            "pilot_content_es": "Este tiempo de procesamiento es un estimado de cu\u00e1nto nos tomar\u00e1 procesar su caso a base la cantidad de casos pendientes que tenemos. Cada caso es \u00fanico y algunos casos podr\u00edan tomar m\u00e1s tiempo que otros. Los tiempos de procesamiento deben ser utilizados como puntos de referencia y no como una medida absoluta de cu\u00e1nto tomar\u00e1 su caso en completarse.",
+            "pilot_form": false,
+            "range": null,
+            "subtypes": [
+                {
+                    "form_type": "144AC",
+                    "publication_date": "March 29, 2022",
+                    "range": [
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 43
+                        },
+                        {
+                            "unit": "Months",
+                            "unit_en": "Months",
+                            "unit_es": "Meses",
+                            "value": 33.5
+                        }
+                    ],
+                    "service_request_date": "October 06, 2018",
+                    "service_request_date_en": "October 06, 2018",
+                    "service_request_date_es": "06 de octubre de 2018",
+                    "subtype_info_en": "Provisional Waiver of Unlawful Presence",
+                    "subtype_info_es": "Exenci\u00f3n Provisional de Presencia F\u00edsica Ilegal",
+                    "subtype_note_en": null,
+                    "subtype_note_es": null
+                }
+            ]
+        }
+    },
+    "message": "Query was successful for payload {'form_name': 'I-601A', 'office_code': 'YSC'}"
+}
